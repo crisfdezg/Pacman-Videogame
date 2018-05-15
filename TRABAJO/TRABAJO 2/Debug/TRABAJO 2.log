@@ -1,0 +1,17 @@
+﻿Compilación iniciada a las 10/06/2015 23:16:37.
+     1>Proyecto "D:\Dropbox\Progra\DEFINITIVO PACMAN\TRABAJO 2\TRABAJO 2\TRABAJO 2.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\TRABAJO 2.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         Todas las salidas están actualizadas.
+         TRABAJO 2.vcxproj -> D:\Dropbox\Progra\DEFINITIVO PACMAN\TRABAJO 2\Debug\TRABAJO 2.exe
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\TRABAJO 2.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\TRABAJO 2.lastbuildstate".
+     1>Compilación del proyecto terminada "D:\Dropbox\Progra\DEFINITIVO PACMAN\TRABAJO 2\TRABAJO 2\TRABAJO 2.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.10
